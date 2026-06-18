@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "plugins": [
+    {
+      "id": "brave-search",
+      "repo": "brave/brave-search-skills",
+      "name": "Brave Search",
+      "description": "Web search, AI answers, images, videos, news, local POIs, spellcheck, and query suggestions — powered by the Brave Search API.",
+      "author": "Brave",
+      "homepage": "https://github.com/brave/brave-search-skills",
+      "tags": ["search", "web", "brave", "ai"]
+    },
+    {
+      "id": "weread",
+      "repo": "Tencent/WeChatReading",
+      "name": "WeChat Reading (微信读书)",
+      "description": "Search books, manage bookshelves, export notes and highlights, browse reviews, and track reading statistics.",
+      "author": "Tencent",
+      "homepage": "https://github.com/Tencent/WeChatReading",
+      "tags": ["reading", "books", "wechat", "chinese"]
+    }
+  ]
+}
